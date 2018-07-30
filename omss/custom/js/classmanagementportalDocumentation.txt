@@ -1,0 +1,26 @@
+Education management portal
+features:
+1>>>Stores all the student and faculty details
+2>>>Notifies all the members through sms
+3>>>Attendence information(received through app provided to the class teachers).alerts students and parents if attendence is low.
+4>>>display class time table
+5>>>apply for leave through app
+6>>>cloud backup 
+
+note:Unique id will be assigned to each school,Teachers and students can acess all the related app through this unique id.
+This id will form the base for the payment information and validity of the package.
+
+support will be provided only between certain time...
+ 
+Software cost:20,000/per year... or 20/user which ever is higher
+Number of application to be build for the project:
+1>application for admin
+2>Mobile application for students 
+3>Mobile application for staff
+4>Ours Application
+
+
+To start with:
+1>Start Building Database 
+2>Start building the web version then go with mobile version i.e Android App
+ 

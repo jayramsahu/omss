@@ -1,0 +1,26 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>REGISTER NOW BUTTON PILLL red</title>
+ <defs>
+  <linearGradient id="linearGradient1759">
+   <stop stop-color="#ffffff" stop-opacity="0" offset="0" id="stop1760"/>
+   <stop stop-color="#ffffff" offset="1" id="stop1761"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1755">
+   <stop stop-color="#db210d" offset="0" id="stop1756"/>
+   <stop stop-color="#761106" offset="1" id="stop1757"/>
+  </linearGradient>
+  <linearGradient y2="633.0423" y1="432.17224" xlink:href="#linearGradient1755" x2="172.99106" x1="172.99106" id="linearGradient1686" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.800141,0.000000,0.000000,0.555512,-116.6050,-231.0506)"/>
+  <linearGradient y2="426.25912" y1="627.57422" xlink:href="#linearGradient1755" x2="175.19505" x1="175.19505" id="linearGradient1754" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.784730,0.000000,0.000000,0.560309,-116.6050,-231.0506)"/>
+  <linearGradient y2="3.638547" y1="93.231247" xlink:href="#linearGradient1759" x2="91.269775" x1="91.26976" id="linearGradient1762" gradientUnits="userSpaceOnUse" gradientTransform="scale(2.045893,0.488784)"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="g5828">
+    <rect fill="url(#linearGradient1754)" fill-rule="nonzero" stroke="url(#linearGradient1686)" stroke-width="6.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="6.956397" x="-0.3626" width="368.52905" ry="56.143105" rx="57.582676" id="rect1061" height="113.72585"/>
+    <rect fill="url(#linearGradient1762)" fill-rule="nonzero" stroke-width="6.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="14.607353" x="12.42238" width="343.50781" ry="38.80648" rx="48.225491" id="rect1758" height="80.668518"/>
+   </g>
+  </g>
+  <text font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="35" id="svg_1" y="76.138646" x="184.303852" stroke-width="0" stroke="#000000" fill="#ffffff">REGISTER NOW</text>
+ </g>
+</svg>
